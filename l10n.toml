@@ -1,0 +1,10 @@
+basepath = "."
+
+locales = [
+    "fr",
+    "pt-BR",
+]
+
+[[paths]]
+    reference = "src/locale/en-US/*.xlf"
+    l10n = "src/locale/{locale}/*.xlf"
