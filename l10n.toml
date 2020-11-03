@@ -1,10 +1,5 @@
 basepath = "."
 
-locales = [
-    "fr",
-    "pt-BR",
-]
-
 [[paths]]
-    reference = "src/locale/en-US/*.xlf"
+    reference = "src/locale/messages.xlf"
     l10n = "src/locale/{locale}/*.xlf"
