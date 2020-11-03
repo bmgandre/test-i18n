@@ -71,10 +71,14 @@
               ]
             },
             "fr": {
-              "localize": [
-                "fr"
-              ]
-            }
+              "localize": ["fr"]
+            },
+            "pt-BR": {
+              "localize": ["pt-BR"]
+            },
+            "zh-CN": {
+              "localize": ["zh-CN"]
+            },
           }
         },
         "serve": {
