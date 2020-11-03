@@ -1,5 +1,5 @@
 basepath = "."
 
 [[paths]]
-    reference = "src/locale/messages.xlf"
+    reference = "src/locale/en-US/messages.xlf"
     l10n = "src/locale/{locale}/*.xlf"
